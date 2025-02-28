@@ -14,6 +14,7 @@ public class Pigeon : MonoBehaviour
    
     void Start()
     {
+        Debug.Log("main branch");
         gameManager = GameObject.FindGameObjectWithTag("GameManager").GetComponent<GameManager>();
     }
 
