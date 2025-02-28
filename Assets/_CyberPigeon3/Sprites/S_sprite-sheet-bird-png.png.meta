@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: e3cc95ce14a20264cab258912e216a99
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6047455117898034434
+    second: S_sprite-sheet-bird-png_0
+  - first:
+      213: 1355254321401548129
+    second: S_sprite-sheet-bird-png_1
+  - first:
+      213: 8235852675399584104
+    second: S_sprite-sheet-bird-png_2
+  - first:
+      213: 7658201587284122126
+    second: S_sprite-sheet-bird-png_3
+  - first:
+      213: 8652546130929528922
+    second: S_sprite-sheet-bird-png_4
+  - first:
+      213: -2833726153555593249
+    second: S_sprite-sheet-bird-png_5
+  - first:
+      213: 6281196239721780040
+    second: S_sprite-sheet-bird-png_6
+  - first:
+      213: 4330525489257092442
+    second: S_sprite-sheet-bird-png_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: S_sprite-sheet-bird-png_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 150
+        width: 196
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e557228aaa27fcb43ad359b3031e9da2
+      internalID: 122706659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_sprite-sheet-bird-png_1
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 150
+        width: 195
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1591b8333493ab145b1e2932315dbfcc
+      internalID: -586210364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_sprite-sheet-bird-png_2
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 150
+        width: 196
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828d9ddff1442eb4db676248a35251d7
+      internalID: -1936874460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_sprite-sheet-bird-png_3
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 150
+        width: 196
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a1252271e3b1747bbbcf9e261cdaea
+      internalID: 2063896173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_sprite-sheet-bird-png_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 14
+        width: 197
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50aa5485f52a66b42a72e59e6cd23fcf
+      internalID: -314152814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_sprite-sheet-bird-png_5
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 14
+        width: 197
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba92836e87a05d24ab05858d3e242000
+      internalID: -139113090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_sprite-sheet-bird-png_6
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 15
+        width: 197
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c089ae753ae264c80d389581725559
+      internalID: 553787191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_sprite-sheet-bird-png_7
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 14
+        width: 197
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1816b8d4cc6b644992023d15fda045a
+      internalID: -1186647105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c82f23e30fac4a44eae0d5f6d4ba0d33
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      S_sprite-sheet-bird-png_0: 122706659
+      S_sprite-sheet-bird-png_1: -586210364
+      S_sprite-sheet-bird-png_2: -1936874460
+      S_sprite-sheet-bird-png_3: 2063896173
+      S_sprite-sheet-bird-png_4: -314152814
+      S_sprite-sheet-bird-png_5: -139113090
+      S_sprite-sheet-bird-png_6: 553787191
+      S_sprite-sheet-bird-png_7: -1186647105
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
