@@ -7,7 +7,8 @@ public class GitTestScript : MonoBehaviour
     void Start()
     {
         test += test;
-        Debug.Log("Frrrrrok  main!");
+        Debug.Log("Frrrrrok  dev!");
+
     }
 
     // Update is called once per frame
